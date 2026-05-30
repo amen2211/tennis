@@ -1,0 +1,6 @@
+{
+  "name": "8-Bit Tennis",
+  "description": "Retro 8-bit tennis game wrapped in an immersive, high-performance offline WebView container.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
